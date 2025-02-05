@@ -49,10 +49,8 @@ Usernames written out to my_usernames.txt.
 Thanks for using the Random Username Generator!
 ```
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Author
 
-- Your Name (Replace with your name or GitHub profile)
+- MOHD KAISH SHEKH
